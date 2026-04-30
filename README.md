@@ -1,4 +1,4 @@
-### Hi there 👋 I'm William (hisunwei)
+### Hi there 👋 I'm SunWei
 
 I'm a software architect and independent developer focused on crafting elegant macOS productivity tools.
 
